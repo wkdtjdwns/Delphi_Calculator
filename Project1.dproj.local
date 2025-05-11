@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.764,C:\Delphi Project\Calculator\Project1.dproj=C:\Users\Maestro\OneDrive\문서\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.704,=C:\Users\Maestro\OneDrive\문서\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.690,C:\Delphi Project\Calculator\Calculator.dfm=C:\Delphi Project\Calculator.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.690,C:\Delphi Project\Calculator\Calculator.pas=C:\Delphi Project\Calculator.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.430,C:\Delphi Project\Calculator.dfm=C:\Users\Maestro\OneDrive\문서\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.430,C:\Delphi Project\Calculator.pas=C:\Users\Maestro\OneDrive\문서\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
